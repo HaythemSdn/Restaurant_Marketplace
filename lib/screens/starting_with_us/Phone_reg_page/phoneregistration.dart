@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 
 import 'package:google_fonts/google_fonts.dart';
 import 'package:intl_phone_field/intl_phone_field.dart';
-import 'package:restaurant_marketplace_h/widgets/default_button.dart';
+import 'package:restaurant_marketplace/widgets/default_button.dart';
 
 import '../../../constants.dart';
 

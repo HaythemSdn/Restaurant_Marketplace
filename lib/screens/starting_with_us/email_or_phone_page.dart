@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:restaurant_marketplace_h/constants.dart';
-import 'package:restaurant_marketplace_h/screens/starting_with_us/signUP/sign_up.dart';
+import 'package:restaurant_marketplace/constants.dart';
+import 'package:restaurant_marketplace/screens/starting_with_us/signUP/sign_up.dart';
 import 'Phone_reg_page/phone_reg_page.dart';
 
 class Email_or_phone extends StatelessWidget {

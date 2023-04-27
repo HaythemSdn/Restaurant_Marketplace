@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:restaurant_marketplace_h/constants.dart';
-import 'package:restaurant_marketplace_h/screens/starting_with_us/signUP/signupcontents.dart';
-import 'package:restaurant_marketplace_h/widgets/circle_container.dart';
+import 'package:restaurant_marketplace/constants.dart';
+import 'package:restaurant_marketplace/screens/starting_with_us/signUP/signupcontents.dart';
+import 'package:restaurant_marketplace/widgets/circle_container.dart';
 
 class Signup_page extends StatelessWidget {
   const Signup_page({Key? key}) : super(key: key);

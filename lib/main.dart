@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:restaurant_marketplace_h/constants.dart';
-import 'package:restaurant_marketplace_h/screens/starting_with_us/welcome.dart';
+import 'package:restaurant_marketplace/constants.dart';
+import 'package:restaurant_marketplace/screens/starting_with_us/welcome.dart';
 
 void main() {
   runApp( MaterialApp(

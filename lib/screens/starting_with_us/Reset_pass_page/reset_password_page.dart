@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:restaurant_marketplace_h/constants.dart';
-import 'package:restaurant_marketplace_h/screens/starting_with_us/Reset_pass_page/resetpassword.dart';
+import 'package:restaurant_marketplace/constants.dart';
+import 'package:restaurant_marketplace/screens/starting_with_us/Reset_pass_page/resetpassword.dart';
 
 
 class reset_password_page extends StatelessWidget {

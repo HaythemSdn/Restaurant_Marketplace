@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:restaurant_marketplace_h/constants.dart';
-import 'package:restaurant_marketplace_h/widgets/default_button.dart';
+import 'package:restaurant_marketplace/constants.dart';
+import 'package:restaurant_marketplace/widgets/default_button.dart';
 
 import '../login/Login_page.dart';
 
